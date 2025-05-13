@@ -2,7 +2,6 @@
 
 This project uses [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) to train an AI agent to play the classic Snake game. Built with Python using `PyGame` and `PyTorch`.
 
-![snake-demo-gif](demo.gif)
 
 ## 🎯 Objective
 Train an AI agent to learn optimal movement strategies in a grid-based Snake game environment using Deep Q-Learning.
@@ -36,6 +35,13 @@ AI-Learns-to-Play-Snake
 
 
 📊 Training Performance
+
+
+
+
+
+
+
 ![Training Data](Figure_1.png)
 
 🤖 How It Works
