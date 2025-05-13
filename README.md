@@ -20,7 +20,10 @@ Train an AI agent to learn optimal movement strategies in a grid-based Snake gam
 - After 300 games, the AI reaches an average score of 25.
 - Demo GIF: ![demo](snakeAI_demo.gif)
 
+
 ## 📂 Project Structure
+
+AI-Learns-to-Play-Snake
 ├── Figure_1.png
 ├── agent.py
 ├── arial.ttf
