@@ -17,10 +17,15 @@ Train an AI agent to learn optimal movement strategies in a grid-based Snake gam
 
 ## 📈 Results
 - After 300 games, the AI reaches an average score of 25.
-- Demo GIF: ![demo](snakeAI_demo.gif)
+
+
+<p align="center">
+  <img src="snakeAI_demo.gif" alt="Snake AI in action" width="450"/>
+</p>
 
 
 ## 📂 Project Structure
+```
 
 AI-Learns-to-Play-Snake
 ├── Figure_1.png
@@ -33,23 +38,28 @@ AI-Learns-to-Play-Snake
 ├── snakeAI_demo.gif
 └── snake_game.py
 
-
-📊 Training Performance
-
-
+```
+## 📊 Training Performance
 
 
 
 
 
-![Training Data](Figure_1.png)
 
-🤖 How It Works
+
+
+<p align="center">
+  <img src="Figure_1.png" alt="Training Data" width="450"/>
+</p>
+
+## 🤖 How It Works
+
 The AI observes the game state (snake position, food direction, danger).
 
 Uses a Deep Q-Network (DQN) to select actions.
 
 Learns through rewards: +10 for food, -10 for dying.
 
-🙌 Acknowledgements
+
+## 🙌 Acknowledgements
 Inspired by freeCodeCamp’s Snake AI tutorial and RL research projects.
